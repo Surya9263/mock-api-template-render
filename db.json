@@ -1,11 +1,8 @@
 {
-    "users": [
+    "user": [
       
     ],
-    "books":[
-      
-    ],
-    "todo":[]
+    "posts":[]
   }
 
   
